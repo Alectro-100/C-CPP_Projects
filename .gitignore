@@ -1,0 +1,6 @@
+# Any file that ends with .pr
+*********.pr
+
+**./.temp
+**bin
+**ir
