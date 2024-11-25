@@ -1,6 +1,8 @@
 # Any file that ends with .pr
-*********.pr
-
-**./.temp
+**.pr
+**/*.dir
+*.sh
+**/*.temp
 **bin
 **ir
+**de/
