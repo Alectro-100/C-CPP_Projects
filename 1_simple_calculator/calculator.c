@@ -83,7 +83,7 @@ int main() {
             #elif defined(__linux__)
                 system("clear");
             #else
-                printf("System Unknown\n")
+                printf("System Unknown\n");
             #endif
             continue;
 
